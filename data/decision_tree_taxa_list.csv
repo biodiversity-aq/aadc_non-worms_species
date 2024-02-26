@@ -1,0 +1,235 @@
+"scientific_name","taxon_key","data_source","global_occ_count","aq_occ_count","aq_presence_proportion","in_worms","in_ras"
+"Acrolophozia fuegiana","2689285","GBIF Backbone Taxonomy",23,18,0.78,FALSE,FALSE
+"Anareodus","4825187","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Anisotome latifolia","3641534","GBIF Backbone Taxonomy",244,133,0.55,FALSE,FALSE
+"Anopaea callistoensis","11152857","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Antarctichnus","4852237","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Antarcticola georgiae","9856200","GBIF Backbone Taxonomy",3,3,1,FALSE,FALSE
+"Antarctonesiotes gracilipes","9443811","GBIF Backbone Taxonomy",2,2,1,FALSE,FALSE
+"Ayersacarus","2188252","GBIF Backbone Taxonomy",29,17,0.59,FALSE,FALSE
+"Bryum algens","7376551","GBIF Backbone Taxonomy",72,62,0.86,FALSE,FALSE
+"Bryum urbanskyi","2676887","GBIF Backbone Taxonomy",33,19,0.58,FALSE,FALSE
+"Bulbinella rossii","10934802","GBIF Backbone Taxonomy",182,122,0.67,FALSE,FALSE
+"Calliergidium","8160667","GBIF Backbone Taxonomy",93,79,0.85,FALSE,FALSE
+"Callitriche antarctica","7925728","GBIF Backbone Taxonomy",438,287,0.66,FALSE,FALSE
+"Caloplaca millegrana","3430382","GBIF Backbone Taxonomy",72,55,0.76,FALSE,FALSE
+"Candelariella hallettensis","3434091","GBIF Backbone Taxonomy",15,14,0.93,FALSE,FALSE
+"Ceratodon antarcticus","7636648","GBIF Backbone Taxonomy",81,77,0.95,FALSE,FALSE
+"Ceratodon grossiretis","7373537","GBIF Backbone Taxonomy",126,87,0.69,FALSE,FALSE
+"Chlamydoselachus thomsoni","11124147","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Clasmatocolea cookiana","7607580","GBIF Backbone Taxonomy",19,11,0.58,FALSE,FALSE
+"Colobanthus muscoides","5588240","GBIF Backbone Taxonomy",307,226,0.74,FALSE,FALSE
+"Cryolophosaurus ellioti","4967021","GBIF Backbone Taxonomy",4,3,0.75,FALSE,FALSE
+"Cryptochilum nigricans","8407899","GBIF Backbone Taxonomy",6,6,1,FALSE,FALSE
+"Cryptopygus subantarcticus","2120223","GBIF Backbone Taxonomy",7,6,0.86,FALSE,FALSE
+"Cyclogramma membranella","7638286","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Davacarus gressitti","6890639","GBIF Backbone Taxonomy",12,11,0.92,FALSE,FALSE
+"Desmatodon austrogeorgicus","7633020","GBIF Backbone Taxonomy",22,17,0.77,FALSE,FALSE
+"Dichilum cuneiforme","7375427","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Dicranoweisia brevipes","2675377","GBIF Backbone Taxonomy",160,135,0.84,FALSE,FALSE
+"Dicranoweisia immersa","7847969","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Dicranoweisia subinclinata","7834536","GBIF Backbone Taxonomy",10,8,0.8,FALSE,FALSE
+"Distichophyllum fasciculatum","5280073","GBIF Backbone Taxonomy",21,11,0.52,FALSE,FALSE
+"Ditrichum immersum","5282332","GBIF Backbone Taxonomy",18,13,0.72,FALSE,FALSE
+"Ditrichum subaustrale","5282373","GBIF Backbone Taxonomy",16,14,0.88,FALSE,FALSE
+"Edwardzetes elongatus","2198711","GBIF Backbone Taxonomy",15,14,0.93,FALSE,FALSE
+"Fellhaneropsis subantarctica","3402349","GBIF Backbone Taxonomy",7,7,1,FALSE,FALSE
+"Gemmamonocolpites pilulus","8660738","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Gentiana cerina","3841507","GBIF Backbone Taxonomy",3,2,0.67,FALSE,FALSE
+"Grimmia lawiana","5281795","GBIF Backbone Taxonomy",88,66,0.75,FALSE,FALSE
+"Hebe benthamii","8264661","GBIF Backbone Taxonomy",22,13,0.59,FALSE,FALSE
+"Helbydinium","7375284","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Herzogobryum vermiculare","2689278","GBIF Backbone Taxonomy",68,46,0.68,FALSE,FALSE
+"Juncus inconspicuus","2701186","GBIF Backbone Taxonomy",11,8,0.73,FALSE,FALSE
+"Lecidea agellata","3437466","GBIF Backbone Taxonomy",3,2,0.67,FALSE,FALSE
+"Lecidea phillipsiana","3435859","GBIF Backbone Taxonomy",49,30,0.61,FALSE,FALSE
+"Lecidea urbanskyana","3439083","GBIF Backbone Taxonomy",3,3,1,FALSE,FALSE
+"Lepidozia fuegiensis","7698237","GBIF Backbone Taxonomy",162,84,0.52,FALSE,FALSE
+"Leptodinium posterosulcatum","8484499","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Marambionella","4841374","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Marsupella minutula","7627996","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Mastodia mawsonii","2625114","GBIF Backbone Taxonomy",8,5,0.62,FALSE,FALSE
+"Metacrinus fossilis","11215107","GBIF Backbone Taxonomy",251,150,0.6,FALSE,FALSE
+"Nebela wailesi","11088182","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Noerneria gigas","4542208","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Palaeeudyptes klekowskii","4966805","GBIF Backbone Taxonomy",11,9,0.82,FALSE,FALSE
+"Pambulaspis","4824275","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Parapsyllus magellanicus","1416495","GBIF Backbone Taxonomy",2,2,1,FALSE,FALSE
+"Peltularia crassa","3424498","GBIF Backbone Taxonomy",18,13,0.72,FALSE,FALSE
+"Physcia tabacina","3427851","GBIF Backbone Taxonomy",3,2,0.67,FALSE,FALSE
+"Pilellus rykei","2185279","GBIF Backbone Taxonomy",9,7,0.78,FALSE,FALSE
+"Plagiothecium falklandicum","5283500","GBIF Backbone Taxonomy",68,54,0.79,FALSE,FALSE
+"Poa foliosa","4146720","GBIF Backbone Taxonomy",440,285,0.65,FALSE,FALSE
+"Pottia austrogeorgica","8179303","GBIF Backbone Taxonomy",34,19,0.56,FALSE,FALSE
+"Pseudoheppia","7245559","GBIF Backbone Taxonomy",3,2,0.67,FALSE,FALSE
+"Pseudolepicolea quadrilaciniata","2689343","GBIF Backbone Taxonomy",144,93,0.65,FALSE,FALSE
+"Psilopilum tapes","8116653","GBIF Backbone Taxonomy",22,19,0.86,FALSE,FALSE
+"Ranunculus biternatus","3923443","GBIF Backbone Taxonomy",485,250,0.52,FALSE,FALSE
+"Ranunculus crassipes","3920769","GBIF Backbone Taxonomy",100,78,0.78,FALSE,FALSE
+"Rhizoplaca aspidophora","3397857","GBIF Backbone Taxonomy",484,463,0.96,FALSE,FALSE
+"Riccardia granulata","7744207","GBIF Backbone Taxonomy",33,27,0.82,FALSE,FALSE
+"Rinodina petermannii","2609723","GBIF Backbone Taxonomy",45,38,0.84,FALSE,FALSE
+"Sarconeurum glaciale","2671546","GBIF Backbone Taxonomy",215,152,0.71,FALSE,FALSE
+"Schistidium syntrichiaceum","5281675","GBIF Backbone Taxonomy",26,22,0.85,FALSE,FALSE
+"Schistochila aberrans","7781735","GBIF Backbone Taxonomy",51,47,0.92,FALSE,FALSE
+"Siphulina orphnina","12296666","GBIF Backbone Taxonomy",1,1,1,FALSE,FALSE
+"Stellaria decipiens","7543884","GBIF Backbone Taxonomy",243,123,0.51,FALSE,FALSE
+"Tortula conferta","8299943","GBIF Backbone Taxonomy",56,31,0.55,FALSE,FALSE
+"Tortula excelsa","7653772","GBIF Backbone Taxonomy",130,66,0.51,FALSE,FALSE
+"Verrucidens","4892340","GBIF Backbone Taxonomy",19,19,1,FALSE,FALSE
+"Warnstorfia laculosa","7995171","GBIF Backbone Taxonomy",65,64,0.98,FALSE,FALSE
+"Abatus ingens","5721198","WoRMS",404,388,0.96,TRUE,TRUE
+"Abatus philippii","5721201","WoRMS",315,281,0.89,TRUE,TRUE
+"Acarospora convoluta","3413987","WoRMS",78,73,0.94,TRUE,TRUE
+"Acarospora gwynnii","3414089","WoRMS",225,115,0.51,TRUE,TRUE
+"Achnanthes germainii","7984283","WoRMS",4,3,0.75,TRUE,TRUE
+"Achnanthes modesta","7787283","WoRMS",1,1,1,TRUE,TRUE
+"Acodontaster conspicuus","2271181","WoRMS",194,194,1,TRUE,TRUE
+"Acodontaster marginatus","2271179","WoRMS",52,52,1,TRUE,TRUE
+"Actinocyclus ingens","8959464","WoRMS",1818,994,0.55,TRUE,TRUE
+"Aega glacialis","11321091","WoRMS",28,21,0.75,TRUE,TRUE
+"Aeginoides gaussi","4314413","WoRMS",178,164,0.92,TRUE,TRUE
+"Amphipneustes brevisternalis","4341718","WoRMS",55,54,0.98,TRUE,TRUE
+"Amphipneustes lorioli","4341717","WoRMS",340,322,0.95,TRUE,TRUE
+"Amphiporus michaelseni","2507436","WoRMS",12,8,0.67,TRUE,TRUE
+"Anatalanta aptera","1588197","WoRMS",294,270,0.92,TRUE,TRUE
+"Andaniotes linearis","4315855","WoRMS",132,115,0.87,TRUE,TRUE
+"Antarctenchus hooperi","7025049","WoRMS",2,2,1,TRUE,TRUE
+"Antarcticinella monoculata","9221306","WoRMS",77,43,0.56,TRUE,TRUE
+"Antarctopsocus jeanneli","4397495","WoRMS",2,2,1,TRUE,TRUE
+"Anurophorus subpolaris","8970113","WoRMS",7,6,0.86,TRUE,TRUE
+"Aphelenchoides haguei","7021736","WoRMS",2,2,1,TRUE,TRUE
+"Aphelenchoides vaughani","4346521","WoRMS",3,3,1,TRUE,TRUE
+"Archisotoma brucei","4640305","WoRMS",32,28,0.88,TRUE,TRUE
+"Arthonia subantarctica","3548889","WoRMS",6,5,0.83,TRUE,TRUE
+"Arthopyrenia praetermissa","3529483","WoRMS",5,4,0.8,TRUE,TRUE
+"Astrotoma agassizii","2278377","WoRMS",1122,752,0.67,TRUE,TRUE
+"Austropallene cornigera","2118078","WoRMS",710,610,0.86,TRUE,TRUE
+"Azpeitia tabularis","3191758","WoRMS",1504,1479,0.98,TRUE,TRUE
+"Bacidia fibrosa","3396211","WoRMS",1,1,1,TRUE,TRUE
+"Bacidia johnstonii","3397051","WoRMS",10,7,0.7,TRUE,TRUE
+"Bacidia stipata","3396637","WoRMS",40,23,0.58,TRUE,TRUE
+"Bathydomus obtectus","4368688","WoRMS",16,12,0.75,TRUE,TRUE
+"Bathydoris clavigera","4359802","WoRMS",86,86,1,TRUE,TRUE
+"Bathyplotes gourdoni","4343143","WoRMS",32,32,1,TRUE,TRUE
+"Belgica antarctica","1446616","WoRMS",319,232,0.73,TRUE,TRUE
+"Bothrometopus gracilipes","7937728","WoRMS",287,264,0.92,TRUE,TRUE
+"Bovallia gigantea","4315030","WoRMS",189,96,0.51,TRUE,TRUE
+"Brachythecium austrosalebrosum","9058404","WoRMS",627,402,0.64,TRUE,TRUE
+"Bryonora peltata","3397462","WoRMS",6,6,1,TRUE,TRUE
+"Bryum subrotundifolium","8040837","WoRMS",214,197,0.92,TRUE,TRUE
+"Buellia augusta","3432162","WoRMS",113,83,0.73,TRUE,TRUE
+"Buellia cladocarpiza","3431977","WoRMS",43,32,0.74,TRUE,TRUE
+"Buellia frigida","3432260","WoRMS",484,344,0.71,TRUE,TRUE
+"Buellia graminicola","3432539","WoRMS",7,5,0.71,TRUE,TRUE
+"Buellia illaetabilis","3432640","WoRMS",24,16,0.67,TRUE,TRUE
+"Buellia nelsonii","3432650","WoRMS",9,5,0.56,TRUE,TRUE
+"Buellia pycnogonoides","3432530","WoRMS",15,9,0.6,TRUE,TRUE
+"Buellia russa","7251742","WoRMS",121,76,0.63,TRUE,TRUE
+"Caloplaca buelliae","3430256","WoRMS",7,5,0.71,TRUE,TRUE
+"Caloplaca cinericola","3430817","WoRMS",6,5,0.83,TRUE,TRUE
+"Caloplaca johnstonii","3429828","WoRMS",20,11,0.55,TRUE,TRUE
+"Caloplaca lewis-smithii","3429864","WoRMS",20,20,1,TRUE,TRUE
+"Caloplaca psoromatis","3430389","WoRMS",7,7,1,TRUE,TRUE
+"Caloplaca schofieldii","3430577","WoRMS",38,37,0.97,TRUE,TRUE
+"Calycopteryx mosleyi","1676979","WoRMS",289,272,0.94,TRUE,TRUE
+"Candelaria murrayi","5479099","WoRMS",144,140,0.97,TRUE,TRUE
+"Carbonea assentiens","3397555","WoRMS",115,96,0.83,TRUE,TRUE
+"Cephalozia badia","8309117","WoRMS",132,77,0.58,TRUE,TRUE
+"Cetraria subscutata","3408254","WoRMS",6,4,0.67,TRUE,TRUE
+"Chaetodactylus antarcticus","12276269","WoRMS",1,1,1,TRUE,TRUE
+"Chalara antarctica","3498713","WoRMS",1,1,1,TRUE,TRUE
+"Christensenia antarctica","5009737","WoRMS",2,2,1,TRUE,TRUE
+"Cocconeis schuettii","4377025","WoRMS",8,6,0.75,TRUE,TRUE
+"Cotula goughensis","3112077","WoRMS",13,7,0.54,TRUE,TRUE
+"Cryptopygus caecus","2120197","WoRMS",24,23,0.96,TRUE,TRUE
+"Cryptopygus sverdrupi","2120212","WoRMS",156,79,0.51,TRUE,TRUE
+"Cuticularia firmata","7036300","WoRMS",1,1,1,TRUE,TRUE
+"Deschampsia antarctica","4144844","WoRMS",1008,541,0.54,TRUE,TRUE
+"Diphascon mirabilis","2254015","WoRMS",2,2,1,TRUE,TRUE
+"Diphascon sanae","2254000","WoRMS",2,2,1,TRUE,TRUE
+"Ditrichum lewis-smithii","5282382","WoRMS",13,12,0.92,TRUE,TRUE
+"Ditylenchus parcevivens","7024479","WoRMS",1,1,1,TRUE,TRUE
+"Eupodes parvus","6919275","WoRMS",8,6,0.75,TRUE,TRUE
+"Fragilariopsis linearis","8394798","WoRMS",18,18,1,TRUE,TRUE
+"Friesea woyciechowskii","10779539","WoRMS",5,4,0.8,TRUE,TRUE
+"Gamasellus racovitzai","6887064","WoRMS",13,11,0.85,TRUE,TRUE
+"Gerronema schusteri","3320137","WoRMS",9,6,0.67,TRUE,TRUE
+"Glaciopsyllus antarcticus","1416799","WoRMS",32,28,0.88,TRUE,TRUE
+"Glyphea georgiensis","12362022","WoRMS",1,1,1,TRUE,TRUE
+"Gressittacantha terranova","2119962","WoRMS",16,15,0.94,TRUE,TRUE
+"Gyalidea antarctica","3414647","WoRMS",6,4,0.67,TRUE,TRUE
+"Halotydeus signiensis","11163062","WoRMS",2,2,1,TRUE,TRUE
+"Halozetes necrophagus","2189773","WoRMS",2,2,1,TRUE,TRUE
+"Herzogobryum atrocapillum","2689279","WoRMS",96,66,0.69,TRUE,TRUE
+"Hygrolembidium isophyllum","8010912","WoRMS",65,40,0.62,TRUE,TRUE
+"Hypogastrura antarctica","8857590","WoRMS",4,4,1,TRUE,TRUE
+"Lecanora dancoensis","3400374","WoRMS",53,43,0.81,TRUE,TRUE
+"Lecanora expectans","3399676","WoRMS",193,150,0.78,TRUE,TRUE
+"Lecanora mawsonii","3400843","WoRMS",11,10,0.91,TRUE,TRUE
+"Lecanora mons-nivis","3399826","WoRMS",51,33,0.65,TRUE,TRUE
+"Lecidea placodiiformis","3437420","WoRMS",42,32,0.76,TRUE,TRUE
+"Lecidea siplei","3438961","WoRMS",27,23,0.85,TRUE,TRUE
+"Lecidea spheniscidarum","3437025","WoRMS",28,16,0.57,TRUE,TRUE
+"Lecidella siplei","3397664","WoRMS",49,33,0.67,TRUE,TRUE
+"Lepraria straminea","3392631","WoRMS",42,29,0.69,TRUE,TRUE
+"Liochthonius australis","2188333","WoRMS",4,4,1,TRUE,TRUE
+"Macrobiotus ambiguus","2254354","WoRMS",3,2,0.67,TRUE,TRUE
+"Macrobiotus blocki","2254184","WoRMS",36,36,1,TRUE,TRUE
+"Macrobiotus stuckenbergi","2254302","WoRMS",2,2,1,TRUE,TRUE
+"Maculobates nordenskjoeldi","2190429","WoRMS",2,2,1,TRUE,TRUE
+"Maudheimia petronia","2190718","WoRMS",3,2,0.67,TRUE,TRUE
+"Mesodorylaimus imperator","7017276","WoRMS",4,3,0.75,TRUE,TRUE
+"Microscolex luykeni","9436470","WoRMS",2,2,1,TRUE,TRUE
+"Myro","2142970","WoRMS",366,283,0.77,TRUE,TRUE
+"Nanorchestes antarcticus","2131869","WoRMS",629,625,0.99,TRUE,TRUE
+"Nanorchestes brekkeristae","6912304","WoRMS",3,2,0.67,TRUE,TRUE
+"Nanorchestes gressitti","6912300","WoRMS",8,6,0.75,TRUE,TRUE
+"Nanorchestes triclavatus","6912299","WoRMS",1,1,1,TRUE,TRUE
+"Neocalvolia antarctica","12315992","WoRMS",3,2,0.67,TRUE,TRUE
+"Neocryptopygus nivicolus","2120078","WoRMS",10,9,0.9,TRUE,TRUE
+"Nitzschia interfrigidaria","9384216","WoRMS",160,160,1,TRUE,TRUE
+"Notiodrilus campbellianus","9571938","WoRMS",0,0,1,TRUE,TRUE
+"Omphalina antarctica","5451228","WoRMS",29,28,0.97,TRUE,TRUE
+"Ophiacantha antarctica","2275037","WoRMS",2032,1145,0.56,TRUE,TRUE
+"Palaeastacus foersteri","8645697","WoRMS",1,1,1,TRUE,TRUE
+"Palliopodex verrucosus","2297501","WoRMS",10,6,0.6,TRUE,TRUE
+"Panagrolaimus davidi","2283715","WoRMS",14,14,1,TRUE,TRUE
+"Pannaria austro-orcadensis","3424992","WoRMS",25,25,1,TRUE,TRUE
+"Paractora dreuxi","1550747","WoRMS",6,4,0.67,TRUE,TRUE
+"Paratriophtydeus dubius","6925685","WoRMS",2,2,1,TRUE,TRUE
+"Parmelia lindsayana","2605929","WoRMS",2,2,1,TRUE,TRUE
+"Pertusaria corallophora","3411630","WoRMS",60,52,0.87,TRUE,TRUE
+"Plectus insolens","7026324","WoRMS",1,1,1,TRUE,TRUE
+"Plectus tolerans","7026309","WoRMS",1,1,1,TRUE,TRUE
+"Pleurophyllum hookeri","5385001","WoRMS",402,353,0.88,TRUE,TRUE
+"Protoparmelia loricata","3407804","WoRMS",37,20,0.54,TRUE,TRUE
+"Pseudaneitea sorenseni","2297474","WoRMS",3,3,1,TRUE,TRUE
+"Pyrenodesmia darbishirei","8486674","WoRMS",1,1,1,TRUE,TRUE
+"Rhagidia gerlachei","6919607","WoRMS",8,7,0.88,TRUE,TRUE
+"Rhododrilus cockayni","2307702","WoRMS",10,8,0.8,TRUE,TRUE
+"Riccardia georgiensis","8160076","WoRMS",150,111,0.74,TRUE,TRUE
+"Ropalospora rossii","3433727","WoRMS",2,2,1,TRUE,TRUE
+"Schistidium antarctici","5281670","WoRMS",800,545,0.68,TRUE,TRUE
+"Schistidium urnulaceum","5281655","WoRMS",19,14,0.74,TRUE,TRUE
+"Scottnema lindsayae","7024772","WoRMS",624,552,0.88,TRUE,TRUE
+"Siphlopteryx antarctica","1588359","WoRMS",3,2,0.67,TRUE,TRUE
+"Staurothele gelida","3473427","WoRMS",25,23,0.92,TRUE,TRUE
+"Stereocaulon austroshetlandicum","5470603","WoRMS",3,2,0.67,TRUE,TRUE
+"Stereocaulon glabrum","6017297","WoRMS",293,170,0.58,TRUE,TRUE
+"Stereotydeus delicatus","8982967","WoRMS",4,4,1,TRUE,TRUE
+"Stereotydeus villosus","12236367","WoRMS",18,12,0.67,TRUE,TRUE
+"Tephromela antarctica","3403160","WoRMS",5,4,0.8,TRUE,TRUE
+"Tephromela minor","3403192","WoRMS",4,4,1,TRUE,TRUE
+"Teratocephalus pseudolirellus","4347199","WoRMS",3,3,1,TRUE,TRUE
+"Teratocephalus tilbrooki","4347198","WoRMS",4,4,1,TRUE,TRUE
+"Thalassiosira elliptipora","8204677","WoRMS",577,576,1,TRUE,TRUE
+"Thelenella antarctica","8700947","WoRMS",20,16,0.8,TRUE,TRUE
+"Thelidium austroatlanticum","3472804","WoRMS",6,5,0.83,TRUE,TRUE
+"Trochammina conica","7785822","WoRMS",10,6,0.6,TRUE,TRUE
+"Umbilicaria antarctica","5260478","WoRMS",321,186,0.58,TRUE,TRUE
+"Usnea antarctica","3410352","WoRMS",1671,1178,0.7,TRUE,TRUE
+"Usnea sphacelata","3410472","WoRMS",1190,672,0.56,TRUE,TRUE
+"Verrucaria dispartita","5492037","WoRMS",6,5,0.83,TRUE,TRUE
+"Verrucaria famelica","5492621","WoRMS",12,8,0.67,TRUE,TRUE
+"Xanthoria mawsonii","3431458","WoRMS",217,139,0.64,TRUE,TRUE
